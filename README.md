@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sankalp
+- 👋 Hi, I’m om.
 - 👀 I’m interested in dsa,development,cp.
 - 🌱 I’m currently learning dsa,development
 - 💞️ I’m looking to collaborate on ...
